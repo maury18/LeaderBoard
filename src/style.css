@@ -1,6 +1,44 @@
-body {
-  background-color: bisque;
+html {
+  font-size: 62.5%;
 }
-.hello {
-  color: red;
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+h1 {
+  padding-top: 5rem;
+  margin-left: 3rem;
+  margin-bottom: 10rem;
+}
+
+.leaderboard-settings {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.lead-score-heading {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.refresh {
+  display: block;
+  width: 8rem;
+  height: 3rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.submit {
+  width: 7rem;
+  height: 3rem;
+  text-align: center;
 }
