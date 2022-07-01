@@ -18,11 +18,27 @@ The leaderboard website displays scores submitted by different players. It also 
 
 
 -- Phase 2:
+.Create a new game with the name of your choice by using the API.
+
+.Implement the "Refresh" button (receiving data from the API and parsing the JSON).
+
+.Implement the form "Submit" button (sending data to the API).
+
+.Use arrow functions instead of the function keyword.
+
+.Use async and await JavaScript features to consume the API.
+
+.No styling is required.
 
 
 
 -- Phase 3:
 
+.Now you should improve the look and feel of the application, adding the styles of your choice.
+
+.Please keep the general layout of the wireframe, this is the only mandatory requirement.
+
+.You can use plain CSS or any CSS framework, it's up to you.
 
 ## Built With:
 
